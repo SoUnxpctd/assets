@@ -1,0 +1,11 @@
+{
+    "name": "Royale.Finance",
+    "website": "https://royale.finance/",
+    "description": "Royale offer iGaming companies the ability to get fund from the crowd to develop innovative products.",
+    "explorer": "https://etherscan.io/token/0x7eaf9c89037e4814dc0d9952ac7f888c784548db",
+    "type": "ERC20",
+    "symbol": "ROYA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7eaf9c89037e4814dc0d9952ac7f888c784548db"
+}
